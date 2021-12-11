@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(red,green);
+    font-family: 'Dongle', sans-serif;
+}
+
+.header_div {
+    background: yellow;
+    color: tomato;
+
+}
+
+.header_div p {
+    font-family: 'Dongle', sans-serif;
+    letter-spacing: 7px;
+    font-size: 18px;
+    font-weight: bold;
+    color: royalblue;
+}
+
+.main_div button {
+    font-family: 'Fruktur', cursive;
+    font-size: 16px;
+    width: 100px;
+    margin-top: 10px;
+    color: purple;
+    background-color: seagreen;
+    font-weight: bold;
+}
+
+.copy_right_footer {
+    position:fixed ;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    line-height: 4;
+    font-size: 28px;
+    background-color: lightblue;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(252, 1, 252);
+    font-weight: bold;
+}
